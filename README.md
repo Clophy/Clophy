@@ -1,4 +1,4 @@
-<h1>### Hi there Im Baran👋</h1>
+<h1 style="text-align:center;"> Hi there 👋 I'm Baran</h1>
 <hr>
 
 <img src="next-js.svg" width="120px"> <img src="htmlcssjs.png" width="240px"> <img src="tailwind.png" width="120px">
