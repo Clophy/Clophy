@@ -1,5 +1,5 @@
 ### Hi there Im Baran👋
-| ----------- | ----------- |
+<hr>
 
 <img src="next-js.svg" width="120px"> <img src="htmlcssjs.png" width="240px"> <img src="tailwind.png" width="120px">
 
