@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="next-js.svg" width="auto">
+<img src="next-js.svg" width="40px">
 
 
 
