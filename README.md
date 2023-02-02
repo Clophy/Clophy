@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <img src="next-js.svg" width="40px">
+<img src="htmlcssjs.png" width="40px">
+<img src="tailwind.png" width="40px">
 
 
 
