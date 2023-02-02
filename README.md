@@ -5,6 +5,10 @@
 
 ## Languages and Tools:
 
+| Ad | Soyad |
+|--|--|
+| <img src="next-js.svg" width="120px">  | <img src="htmlcssjs.png" width="240px">  | <img src="tailwind.png" width="120px"> |
+
 <img src="next-js.svg" width="120px">     <img src="htmlcssjs.png" width="240px">       <img src="tailwind.png" width="120px">
 
 
