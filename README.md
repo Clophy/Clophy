@@ -29,7 +29,7 @@
 | 11 | Incrementing Counter | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day15/) |
 | 12 | Drink Water | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day16/) |
 | 13 | Background Slider | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day18/) |
-| 14 | Movie App(NotCompleted) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day17/) |
+| 14 | Movie App(NotCompleted) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day17-almost-done/) |
 | 15 | Event Key Code | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day11-not-completed/) |
 | 16 | Scroll Animation(NotCompleted) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day6-not-completed/) |
 | 17 | Form Wave(NotCompleted) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day8-couldnt/) |
