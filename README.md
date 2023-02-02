@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="gorsel-link" width="auto">
+<img src="next-js.svg" width="auto">
 
 
 
