@@ -11,8 +11,7 @@
 | <img src="css3.png" width="120px">       | I know well, I can create and understand layouts easily. I have never done animation and linear gradient projects. |  
 | <img src="javascript.png" width="120px"> | I know syntax and ES6 updates. I developed projects with API, localstorage and DOM. |  
 | <img src="next-js.svg" width="120px">    | I know how to create components, use module css, create dynamic or static links. I can use react hooks. I developed projects with next js.  |  
-| <img src="tailwind.png" width="120px">   | 
-At the time of writing this article, I just started learning. I even made a project with it. I think it looks pretty ugly when I write it inside the classes. I found the solution to this by writing it in module.css using @apply. I loved it for now.  |  
+| <img src="tailwind.png" width="120px">   | At the time of writing this article, I just started learning. I even made a project with it. I think it looks pretty ugly when I write it inside the classes. I found the solution to this by writing it in module.css using @apply. I loved it for now.  |  
 
 
 
