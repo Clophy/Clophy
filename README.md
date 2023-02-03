@@ -61,6 +61,7 @@ Connect with me:
 | 35 | [Frontendmentor.io Projects #9](https://github.com/Clophy/front-end-mentor2/tree/main/advice-generator) | NEXT.JS | [Live Demo](https://front-end-mentor2-eight.vercel.app/) |
 | 36 | [Frontendmentor.io Projects #10](https://github.com/Clophy/front-end-mentor2/tree/main/product-page) | NEXT.JS | [Live Demo](https://product-page-steel.vercel.app/) |
 | 37 | [Frontendmentor.io Projects #11](https://github.com/Clophy/front-end-mentor2/tree/main/sunnyside) | NEXT.JS - TAILWINDCSS | [Live Demo](https://sunnyside-chi-vert.vercel.app/) |
+| 38 | [Frontendmentor.io Projects #12](https://github.com/Clophy/countries-front-end-mentor) | NEXT.JS - TAILWINDCSS | [Live Demo](https://countries-front-end-mentor.vercel.app/) |
 
 
 
