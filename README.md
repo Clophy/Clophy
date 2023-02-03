@@ -3,7 +3,7 @@
 
 Connect with me: 
 ---
-<img src="twitter.png" width="120px"> <img src="linkedin.png" width="120px"> <img src="discord.png" width="120px">
+[<img src="twitter.png" width="96px">](https://twitter.com/BaranGenez) <img src="linkedin.png" width="96px"> <img src="discord.png" width="96px">
 
 
 ## Languages and Tools:
