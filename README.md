@@ -3,7 +3,7 @@
 
 Connect with me: 
 ---
-[<img src="twitter.png" width="96px">](https://twitter.com/BaranGenez) [<img src="twitter.png" width="96px">](https://www.linkedin.com/in/baran-genez-ba759419a/) [<img src="twitter.png" width="96px">](https://discord.gg/uWy2RguGEK)
+[<img src="twitter.png" width="96px">](https://twitter.com/BaranGenez) [<img src="linkedin.png" width="96px">](https://www.linkedin.com/in/baran-genez-ba759419a/) [<img src="discord.png" width="96px">](https://discord.gg/uWy2RguGEK)
 
 
 ## Languages and Tools:
