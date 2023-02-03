@@ -3,7 +3,7 @@
 
 Connect with me: 
 ---
-<img src="twitter.png" width="120px"> <img src="linkedin.png" width="120px"> <img src="discord.jpg" width="120px">
+<img src="twitter.png" width="120px"> <img src="linkedin.png" width="120px"> <img src="discord.png" width="120px">
 
 
 ## Languages and Tools:
