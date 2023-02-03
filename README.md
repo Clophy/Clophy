@@ -21,7 +21,7 @@ Connect with me:
 | <img src="next-js.svg" width="120px">    | I know how to create components, use module css, create dynamic or static links. I can use react hooks. I developed projects with next js.  |  
 | <img src="tailwind.png" width="120px">   | At the time of writing this article, I just started learning. I even made a project with it. I think it looks pretty ugly when I write it inside the classes. I found the solution to this by writing it in module.css using @apply. I loved it for now.  |  
 ---
-| # | My Projects | Technologies | Live Demo | 
+| # | My Projects Repositories | Technologies | Live Demo | 
 |--|--|--|--|
 | 0 | [IMAGE SLIDER](https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day1) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day1/) |
 | 1 | [PROGRESS STEPS](https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day2) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day2/) |[
