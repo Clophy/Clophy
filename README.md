@@ -1,6 +1,9 @@
                                                          # Hi there 👋 I'm Baran
 ---
 
+Connect with me: 
+---
+
 
 
 ## Languages and Tools:
