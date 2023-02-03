@@ -39,28 +39,28 @@ Connect with me:
 | 13 | [Background Slider](https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day18) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day18/) |
 | 14 | [Movie App(NotCompleted)](https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day17-almost-done) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day17-almost-done/) |
 | 15 | [Event Key Code](https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day11-not-completed) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day11-not-completed/) |
-| 16 | [Scroll Animation(NotCompleted)](https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day6-not-complpted) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day6-not-completed/) |
+| 16 | [Scroll Animation(NotCompleted)](https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day6-not-completed) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day6-not-completed/) |
 | 17 | [Form Wave(NotCompleted)](https://github.com/Clophy/Front-End-Learning/tree/master/50days50project/day8-couldnt) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/50days50project/day8-couldnt/) |
-| 18 | [Button Ripple]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/buttonRipple) |
-| 19 | [Calculator(NotCompleted)]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/calculator/) |
-| 20 | [Character Counter]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/charLength/) |
-| 21 | [Digital Clock]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/digitalClock/) |
-| 22 | [Hangman(NotCompleted)]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/hangman/) |
-| 23 | [multiplyApp]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/multiplyApp/) |
-| 24 | [Pokedex]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/pokedex/) |
-| 25 | [Random Color Generator]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/randomColorGenerator/) |
-| 26 | [To Do List]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/toDoList/) |
-| 27 | [Frontendmentor.io Projects #1]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/interactive-card-details-form-main/) |
-| 28 | [Frontendmentor.io Projects #2]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/interactive-rating-component-main/#) |
-| 29 | [Frontendmentor.io Projects #3]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/intro-component-with-signup-form-master/) |
-| 30 | [Frontendmentor.io Projects #4]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/productPreview/) |
-| 31 | [Frontendmentor.io Projects #5]() | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/qr-code-component-main/) |
-| 32 | [Frontendmentor.io Projects #6]() | NEXT.JS | [Live Demo](https://front-end-mentor-delta.vercel.app/) |
-| 33 | [Frontendmentor.io Projects #7]() | NEXT.JS | [Live Demo](https://expenses-chart-xi.vercel.app/) |
-| 34 | [Frontendmentor.io Projects #8]() | NEXT.JS | [Live Demo](https://tip-calculator-navy-nine.vercel.app/) |
-| 35 | [Frontendmentor.io Projects #9]() | NEXT.JS | [Live Demo](https://front-end-mentor2-eight.vercel.app/) |
-| 36 | [Frontendmentor.io Projects #10]() | NEXT.JS | [Live Demo](https://product-page-steel.vercel.app/) |
-| 37 | [Frontendmentor.io Projects #11]() | NEXT.JS - TAILWINDCSS | [Live Demo](https://sunnyside-chi-vert.vercel.app/) |
+| 18 | [Button Ripple](https://github.com/Clophy/Front-End-Learning/tree/master/buttonRipple) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/buttonRipple) |
+| 19 | [Calculator(NotCompleted)](https://github.com/Clophy/Front-End-Learning/tree/master/calculator) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/calculator/) |
+| 20 | [Character Counter](https://github.com/Clophy/Front-End-Learning/tree/master/charLength) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/charLength/) |
+| 21 | [Digital Clock](https://github.com/Clophy/Front-End-Learning/tree/master/digitalClock) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/digitalClock/) |
+| 22 | [Hangman(NotCompleted)](https://github.com/Clophy/Front-End-Learning/tree/master/hangman) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/hangman/) |
+| 23 | [multiplyApp](https://github.com/Clophy/Front-End-Learning/tree/master/multiplyApp) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/multiplyApp/) |
+| 24 | [Pokedex](https://github.com/Clophy/Front-End-Learning/tree/master/pokedex) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/pokedex/) |
+| 25 | [Random Color Generator](https://github.com/Clophy/Front-End-Learning/tree/master/randomColorGenerator) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/randomColorGenerator/) |
+| 26 | [To Do List](https://github.com/Clophy/Front-End-Learning/tree/master/toDoList) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/toDoList/) |
+| 27 | [Frontendmentor.io Projects #1](https://github.com/Clophy/Front-End-Learning/tree/master/interactive-card-details-form-main) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/interactive-card-details-form-main/) |
+| 28 | [Frontendmentor.io Projects #2](https://github.com/Clophy/Front-End-Learning/tree/master/interactive-rating-component-main) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/interactive-rating-component-main/#) |
+| 29 | [Frontendmentor.io Projects #3](https://github.com/Clophy/Front-End-Learning/tree/master/intro-component-with-signup-form-master) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/intro-component-with-signup-form-master/) |
+| 30 | [Frontendmentor.io Projects #4](https://github.com/Clophy/Front-End-Learning/tree/master/productPreview) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/productPreview/) |
+| 31 | [Frontendmentor.io Projects #5](https://github.com/Clophy/Front-End-Learning/tree/master/qr-code-component-main) | HTML-CSS-JS | [Live Demo](https://clophy.github.io/Front-End-Learning/qr-code-component-main/) |
+| 32 | [Frontendmentor.io Projects #6](https://github.com/Clophy/front-end-mentor/tree/main/time-tracking) | NEXT.JS | [Live Demo](https://front-end-mentor-delta.vercel.app/) |
+| 33 | [Frontendmentor.io Projects #7](https://github.com/Clophy/front-end-mentor/tree/main/expenses-chart) | NEXT.JS | [Live Demo](https://expenses-chart-xi.vercel.app/) |
+| 34 | [Frontendmentor.io Projects #8](https://github.com/Clophy/front-end-mentor/tree/main/tip-calculator) | NEXT.JS | [Live Demo](https://tip-calculator-navy-nine.vercel.app/) |
+| 35 | [Frontendmentor.io Projects #9](https://github.com/Clophy/front-end-mentor2/tree/main/advice-generator) | NEXT.JS | [Live Demo](https://front-end-mentor2-eight.vercel.app/) |
+| 36 | [Frontendmentor.io Projects #10](https://github.com/Clophy/front-end-mentor2/tree/main/product-page) | NEXT.JS | [Live Demo](https://product-page-steel.vercel.app/) |
+| 37 | [Frontendmentor.io Projects #11](https://github.com/Clophy/front-end-mentor2/tree/main/sunnyside) | NEXT.JS - TAILWINDCSS | [Live Demo](https://sunnyside-chi-vert.vercel.app/) |
 
 
 
